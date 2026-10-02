@@ -1,0 +1,4 @@
+cluster,total_orders,average_order_value,total_spending,average_rating,average_delivery_time,average_discount,average_distance,average_quantity,average_delivery_fee,customer_count,percentage
+0,15.66,391.38,6410.47,4.57,33.06,8.27,3.16,1.5,47.62,4009,40.13816579895875
+1,26.9,822.11,21312.21,4.53,34.7,6.61,3.56,2.08,49.24,3359,33.63035642771325
+2,15.28,415.39,6766.21,4.44,37.64,8.17,4.32,1.51,52.28,2620,26.231477773327995

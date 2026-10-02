@@ -1,0 +1,3 @@
+is_weekend,orders,revenue,average_order_value,average_rating,day_type
+False,137906,82033575.39,594.8513871042594,4.553965744782678,Weekday
+True,55245,32981193.89,596.9987128246901,4.447979002624672,Weekend
